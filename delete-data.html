@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>طلب حذف البيانات — تحديات دانيال | Delete My Data — Daniel Quiz</title>
+<style>
+  :root{ --bg:#0E1116; --card:#161B22; --gold:#E9AB45; --gold-light:#F5C877; --text:#E6E1D8; --muted:#9AA3AE; --line:#252C36; }
+  *{ box-sizing:border-box; }
+  body{ margin:0; background:var(--bg); color:var(--text);
+        font-family:"Segoe UI",Tahoma,Arial,sans-serif; line-height:1.85; }
+  .wrap{ max-width:720px; margin:0 auto; padding:28px 18px 60px; }
+  header{ text-align:center; padding:26px 0 10px; border-bottom:1px solid var(--line); }
+  h1{ color:var(--gold-light); font-size:1.4rem; margin:0 0 6px; }
+  .sub{ color:var(--muted); font-size:0.92rem; margin:0; }
+  h2{ color:var(--gold); font-size:1.1rem; margin:28px 0 8px; }
+  p,li{ font-size:0.95rem; }
+  ul,ol{ padding-inline-start:22px; }
+  a{ color:var(--gold-light); }
+  .card{ background:var(--card); border:1px solid var(--line); border-radius:12px; padding:14px 16px; margin:16px 0; }
+  .btn{ display:inline-block; background:var(--gold); color:#1a1206; font-weight:700;
+        text-decoration:none; padding:12px 22px; border-radius:10px; margin:10px 0; }
+  code{ background:#0a0d12; padding:2px 7px; border-radius:5px; color:var(--gold-light); font-size:0.9rem; }
+  table{ width:100%; border-collapse:collapse; margin:12px 0; font-size:0.88rem; }
+  th,td{ border:1px solid var(--line); padding:8px 10px; text-align:start; }
+  th{ background:var(--card); color:var(--gold-light); }
+  .en{ direction:ltr; text-align:left; border-top:2px solid var(--line); margin-top:44px; padding-top:10px; }
+  footer{ margin-top:40px; text-align:center; color:var(--muted); font-size:0.82rem; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <h1>طلب حذف الحساب والبيانات</h1>
+  <p class="sub">تطبيق «تحديات دانيال» — Daniel Quiz</p>
+</header>
+
+<h2>كيف تطلب الحذف</h2>
+<ol>
+  <li>أرسل بريداً إلكترونياً من <b>البريد نفسه الذي سجّلت به داخل التطبيق</b>.</li>
+  <li>العنوان: <code>حذف حسابي</code></li>
+  <li>أرسل إلى: <a href="mailto:anas@formwear.com">anas@formwear.com</a></li>
+</ol>
+
+<p style="text-align:center;">
+  <a class="btn" id="mail-btn" href="mailto:anas@formwear.com?subject=%D8%AD%D8%B0%D9%81%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A">إرسال طلب الحذف الآن ✉</a>
+</p>
+
+<div class="card" id="uid-box" style="display:none;">
+  معرّف حسابك: <code id="uid-val"></code><br>
+  ضعه في الرسالة إن أمكن — يسرّع التنفيذ.
+</div>
+
+<h2>ما الذي يُحذف</h2>
+<table>
+  <tr><th>البيان</th><th>الإجراء</th></tr>
+  <tr><td>الاسم والبريد الإلكتروني وصورة الحساب</td><td>حذف نهائي</td></tr>
+  <tr><td>معرّف الحساب (UID)</td><td>حذف نهائي</td></tr>
+  <tr><td>كل النتائج والأوقات والمستويات</td><td>حذف نهائي</td></tr>
+  <tr><td>صفوفك في كل لوحات التصنيف</td><td>حذف نهائي</td></tr>
+</table>
+<p>لا نحتفظ بأي نسخة بعد التنفيذ. سجلّات الخادم التقنية لدى Google تُدار وفق سياسة Google ولا تحتوي بياناتك الشخصية.</p>
+
+<h2>المدة</h2>
+<p>ننفّذ الطلب خلال <b>30 يوماً كحد أقصى</b> من استلامه، ونرسل لك تأكيداً بالبريد.</p>
+
+<div class="card">
+  <b>تنبيه:</b> الحذف نهائي ولا يمكن التراجع عنه. ستفقد كل نتائجك وترتيبك في التصنيف.
+  إن سجّلت دخولك لاحقاً بالحساب نفسه ستبدأ من الصفر.
+</div>
+
+<h2>بدون تسجيل دخول؟</h2>
+<p>
+  إن كنت تلعب كضيف فلا توجد لدينا أي بيانات عنك أصلاً — نتائجك محفوظة على جهازك فقط.
+  لحذفها: إعدادات Android ← التطبيقات ← تحديات دانيال ← التخزين ← مسح البيانات.
+</p>
+
+<p><a href="privacy.html">← سياسة الخصوصية الكاملة</a></p>
+
+<!-- ================== ENGLISH ================== -->
+<div class="en" lang="en">
+  <h1 style="font-size:1.3rem;">Account &amp; Data Deletion Request — Daniel Quiz</h1>
+
+  <h2>How to request deletion</h2>
+  <ol>
+    <li>Email us <b>from the same address you signed in with</b>.</li>
+    <li>Subject: <code>Delete my account</code></li>
+    <li>Send to: <a href="mailto:anas@formwear.com">anas@formwear.com</a></li>
+  </ol>
+
+  <h2>What gets deleted</h2>
+  <ul>
+    <li>Your name, email address and profile picture URL.</li>
+    <li>Your account identifier (UID).</li>
+    <li>All scores, times and levels.</li>
+    <li>All of your rows in every leaderboard.</li>
+  </ul>
+  <p>Nothing is retained afterwards. Technical server logs are handled by Google under Google's own policy and contain no personal data of yours.</p>
+
+  <h2>Timeframe</h2>
+  <p>Requests are completed within <b>30 days</b> and confirmed by email.</p>
+
+  <h2>Playing as a guest?</h2>
+  <p>Guest scores never leave your device — we hold no data about you. To erase them: Android Settings → Apps → Daniel Quiz → Storage → Clear data.</p>
+
+  <p><a href="privacy.html">← Full privacy policy</a></p>
+</div>
+
+<footer>تحديات دانيال — Daniel Quiz © 2026</footer>
+
+</div>
+<script>
+  /* التطبيق يمرّر معرّف الحساب في الرابط ليُدرَج في رسالة الطلب */
+  (function(){
+    var id = new URLSearchParams(location.search).get('id');
+    if(!id) return;
+    document.getElementById('uid-val').textContent = id;
+    document.getElementById('uid-box').style.display = '';
+    var btn = document.getElementById('mail-btn');
+    btn.href = 'mailto:anas@formwear.com'
+      + '?subject=' + encodeURIComponent('حذف حسابي')
+      + '&body=' + encodeURIComponent('أرجو حذف حسابي وكل بياناتي.\n\nمعرّف الحساب: ' + id + '\n');
+  })();
+</script>
+</body>
+</html>
