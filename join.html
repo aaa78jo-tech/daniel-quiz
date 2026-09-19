@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>تحدى دانيال · Daniel's Challenge</title>
+<meta name="robots" content="noindex">
+<style>
+  body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;background:linear-gradient(135deg,#10123A,#1F2461);color:#EEF0FF;font-family:'Segoe UI',Tahoma,Arial,sans-serif;text-align:center;padding:20px}
+  .box{max-width:360px;width:100%}
+  h1{font-size:1.5rem;margin:0 0 6px}
+  p{opacity:.85;line-height:1.7}
+  .code{font-size:2rem;letter-spacing:.3em;color:#E4C989;font-weight:800;margin:10px 0}
+  a.btn{display:block;background:#6D5DF6;color:#fff;text-decoration:none;padding:14px;border-radius:12px;font-weight:700;margin:10px 0}
+  a.btn.alt{background:transparent;border:1px solid #A78BFA}
+</style>
+</head>
+<body>
+<div class="box">
+  <h1 id="ttl"></h1>
+  <div class="code" id="code"></div>
+  <p id="msg"></p>
+  <a class="btn" id="open" href="#"></a>
+  <a class="btn alt" id="store" href="#"></a>
+</div>
+<script>
+(function(){
+  var PLAY = 'https://play.google.com/store/apps/details?id=com.astrolab.quiz';
+  var p = new URLSearchParams(location.search);
+  var room = (p.get('room')||'').replace(/[^A-Za-z0-9]/g,'').slice(0,6).toUpperCase();
+  var friend = (p.get('friend')||'').replace(/[^A-Za-z0-9]/g,'').slice(0,6).toUpperCase();
+  var kind = room ? 'room' : (friend ? 'friend' : '');
+  var code = room || friend;
+  var L = {
+    ar:{t:'تحدى دانيال',room:'دُعيت لمسابقة جماعية — كود الغرفة:',friend:'دعوة لإضافتك صديقاً — المعرّف:',none:'افتح التطبيق وابدأ التحدي',open:'افتح في التطبيق',store:'تحميل من Google Play'},
+    en:{t:"Daniel's Challenge",room:'You are invited to a group contest — room code:',friend:'Friend invite — ID:',none:'Open the app and start the challenge',open:'Open in the app',store:'Get it on Google Play'},
+    fr:{t:'Le Défi de Daniel',room:'Invitation à une partie de groupe — code :',friend:'Invitation d’ami — ID :',none:'Ouvrez l’appli et lancez le défi',open:'Ouvrir dans l’appli',store:'Télécharger sur Google Play'},
+    es:{t:'El Desafío de Daniel',room:'Te invitaron a una partida en grupo — código:',friend:'Invitación de amistad — ID:',none:'Abre la app y empieza el reto',open:'Abrir en la app',store:'Descargar en Google Play'}
+  };
+  var lang = (navigator.language||'ar').slice(0,2); if(!L[lang]) lang = 'ar';
+  var s = L[lang];
+  document.documentElement.lang = lang; document.documentElement.dir = lang==='ar' ? 'rtl' : 'ltr';
+  document.getElementById('ttl').textContent = s.t;
+  document.getElementById('code').textContent = code;
+  document.getElementById('msg').textContent = kind ? s[kind] : s.none;
+  document.getElementById('open').textContent = s.open;
+  document.getElementById('store').textContent = s.store;
+  document.getElementById('store').href = PLAY;
+  var q = kind ? ('?' + kind + '=' + encodeURIComponent(code)) : '';
+  var isAndroid = /Android/i.test(navigator.userAgent);
+  var appUrl = 'com.astrolab.quiz://join' + q;
+  var intentUrl = 'intent://join' + q + '#Intent;scheme=com.astrolab.quiz;package=com.astrolab.quiz;S.browser_fallback_url=' + encodeURIComponent(PLAY) + ';end';
+  var target = isAndroid ? intentUrl : PLAY;
+  document.getElementById('open').href = target;
+  if(isAndroid){ setTimeout(function(){ location.href = intentUrl; }, 400); }
+})();
+</script>
+</body>
+</html>
