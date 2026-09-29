@@ -1,0 +1,1496 @@
+{
+ "_meta": {
+  "version": 2,
+  "updated": "2026-09-29",
+  "batches": [
+   {
+    "date": "2026-09-29",
+    "count": 40
+   }
+  ]
+ },
+ "arts_painting": [
+  {
+   "level": 2,
+   "q": "إلى أي مدرسة فنية ينتمي الرسام سلفادور دالي؟",
+   "options": [
+    "الانطباعية",
+    "التكعيبية",
+    "السريالية",
+    "الواقعية"
+   ],
+   "correct": 2,
+   "i18n": {
+    "en": {
+     "q": "Which art movement did Salvador Dalí belong to?",
+     "options": [
+      "Impressionism",
+      "Cubism",
+      "Surrealism",
+      "Realism"
+     ],
+     "correct": 2
+    },
+    "fr": {
+     "q": "À quel mouvement artistique appartenait Salvador Dalí ?",
+     "options": [
+      "Impressionnisme",
+      "Cubisme",
+      "Surréalisme",
+      "Réalisme"
+     ],
+     "correct": 2
+    },
+    "es": {
+     "q": "¿A qué movimiento artístico perteneció Salvador Dalí?",
+     "options": [
+      "Impresionismo",
+      "Cubismo",
+      "Surrealismo",
+      "Realismo"
+     ],
+     "correct": 2
+    }
+   }
+  },
+  {
+   "level": 3,
+   "q": "من رسم لوحة «الفتاة ذات القرط اللؤلؤي»؟",
+   "options": [
+    "رامبرانت",
+    "يوهانس فيرمير",
+    "فان غوخ",
+    "روبنز"
+   ],
+   "correct": 1,
+   "i18n": {
+    "en": {
+     "q": "Who painted 'Girl with a Pearl Earring'?",
+     "options": [
+      "Rembrandt",
+      "Johannes Vermeer",
+      "Van Gogh",
+      "Rubens"
+     ],
+     "correct": 1
+    },
+    "fr": {
+     "q": "Qui a peint « La Jeune Fille à la perle » ?",
+     "options": [
+      "Rembrandt",
+      "Johannes Vermeer",
+      "Van Gogh",
+      "Rubens"
+     ],
+     "correct": 1
+    },
+    "es": {
+     "q": "¿Quién pintó «La joven de la perla»?",
+     "options": [
+      "Rembrandt",
+      "Johannes Vermeer",
+      "Van Gogh",
+      "Rubens"
+     ],
+     "correct": 1
+    }
+   }
+  },
+  {
+   "level": 1,
+   "q": "ما اسم اللوح الذي يضع عليه الرسام ألوانه ويخلطها؟",
+   "options": [
+    "الحامل",
+    "لوح الألوان (الباليتة)",
+    "الإطار",
+    "القماشة"
+   ],
+   "correct": 1,
+   "i18n": {
+    "en": {
+     "q": "What is the board a painter uses to hold and mix paints?",
+     "options": [
+      "Easel",
+      "Palette",
+      "Frame",
+      "Canvas"
+     ],
+     "correct": 1
+    },
+    "fr": {
+     "q": "Comment s’appelle la planche sur laquelle le peintre dispose et mélange ses couleurs ?",
+     "options": [
+      "Chevalet",
+      "Palette",
+      "Cadre",
+      "Toile"
+     ],
+     "correct": 1
+    },
+    "es": {
+     "q": "¿Cómo se llama la tabla donde el pintor coloca y mezcla sus colores?",
+     "options": [
+      "Caballete",
+      "Paleta",
+      "Marco",
+      "Lienzo"
+     ],
+     "correct": 1
+    }
+   }
+  },
+  {
+   "level": 4,
+   "q": "في أي متحف تُعرض لوحة «غيرنيكا» لبيكاسو اليوم؟",
+   "options": [
+    "متحف اللوفر",
+    "متحف الملكة صوفيا في مدريد",
+    "متحف برادو",
+    "متحف الفن الحديث في نيويورك"
+   ],
+   "correct": 1,
+   "i18n": {
+    "en": {
+     "q": "In which museum is Picasso's 'Guernica' displayed today?",
+     "options": [
+      "The Louvre",
+      "Reina Sofía Museum, Madrid",
+      "Prado Museum",
+      "MoMA, New York"
+     ],
+     "correct": 1
+    },
+    "fr": {
+     "q": "Dans quel musée est exposé « Guernica » de Picasso aujourd’hui ?",
+     "options": [
+      "Le Louvre",
+      "Musée Reina Sofía, Madrid",
+      "Musée du Prado",
+      "MoMA, New York"
+     ],
+     "correct": 1
+    },
+    "es": {
+     "q": "¿En qué museo se exhibe hoy el «Guernica» de Picasso?",
+     "options": [
+      "El Louvre",
+      "Museo Reina Sofía, Madrid",
+      "Museo del Prado",
+      "MoMA, Nueva York"
+     ],
+     "correct": 1
+    }
+   }
+  }
+ ],
+ "general_animals": [
+  {
+   "level": 1,
+   "q": "أي حيوان يمتلك أكبر عينين بين الحيوانات البرية؟",
+   "options": [
+    "الفيل",
+    "النعامة",
+    "الزرافة",
+    "الحصان"
+   ],
+   "correct": 1,
+   "i18n": {
+    "en": {
+     "q": "Which animal has the largest eyes of any land animal?",
+     "options": [
+      "Elephant",
+      "Ostrich",
+      "Giraffe",
+      "Horse"
+     ],
+     "correct": 1
+    },
+    "fr": {
+     "q": "Quel animal a les plus grands yeux de tous les animaux terrestres ?",
+     "options": [
+      "Éléphant",
+      "Autruche",
+      "Girafe",
+      "Cheval"
+     ],
+     "correct": 1
+    },
+    "es": {
+     "q": "¿Qué animal tiene los ojos más grandes de todos los animales terrestres?",
+     "options": [
+      "Elefante",
+      "Avestruz",
+      "Jirafa",
+      "Caballo"
+     ],
+     "correct": 1
+    }
+   }
+  },
+  {
+   "level": 2,
+   "q": "أي حيوان تُعد بصمة أنفه فريدة لكل فرد مثل بصمات أصابع الإنسان؟",
+   "options": [
+    "الكلب",
+    "القط",
+    "الحصان",
+    "الأرنب"
+   ],
+   "correct": 0,
+   "i18n": {
+    "en": {
+     "q": "Which animal has a nose print unique to each individual, like human fingerprints?",
+     "options": [
+      "Dog",
+      "Cat",
+      "Horse",
+      "Rabbit"
+     ],
+     "correct": 0
+    },
+    "fr": {
+     "q": "Quel animal a une empreinte de truffe unique à chaque individu, comme nos empreintes digitales ?",
+     "options": [
+      "Chien",
+      "Chat",
+      "Cheval",
+      "Lapin"
+     ],
+     "correct": 0
+    },
+    "es": {
+     "q": "¿Qué animal tiene una huella nasal única en cada individuo, como las huellas dactilares humanas?",
+     "options": [
+      "Perro",
+      "Gato",
+      "Caballo",
+      "Conejo"
+     ],
+     "correct": 0
+    }
+   }
+  },
+  {
+   "level": 3,
+   "q": "ما الطائر الوحيد القادر على الطيران إلى الخلف؟",
+   "options": [
+    "الطائر الطنّان",
+    "النسر",
+    "الببغاء",
+    "الحمام"
+   ],
+   "correct": 0,
+   "i18n": {
+    "en": {
+     "q": "Which is the only bird that can fly backwards?",
+     "options": [
+      "Hummingbird",
+      "Eagle",
+      "Parrot",
+      "Pigeon"
+     ],
+     "correct": 0
+    },
+    "fr": {
+     "q": "Quel est le seul oiseau capable de voler en arrière ?",
+     "options": [
+      "Colibri",
+      "Aigle",
+      "Perroquet",
+      "Pigeon"
+     ],
+     "correct": 0
+    },
+    "es": {
+     "q": "¿Cuál es el único pájaro capaz de volar hacia atrás?",
+     "options": [
+      "Colibrí",
+      "Águila",
+      "Loro",
+      "Paloma"
+     ],
+     "correct": 0
+    }
+   }
+  },
+  {
+   "level": 4,
+   "q": "ما الكائن المجهري الملقّب «دب الماء» والمعروف بقدرته على النجاة في الفضاء الخارجي؟",
+   "options": [
+    "بطيئات المشية",
+    "الروبيان",
+    "العناكب",
+    "النمل"
+   ],
+   "correct": 0,
+   "i18n": {
+    "en": {
+     "q": "Which microscopic animal, nicknamed the 'water bear', can survive in outer space?",
+     "options": [
+      "Tardigrade",
+      "Shrimp",
+      "Spider",
+      "Ant"
+     ],
+     "correct": 0
+    },
+    "fr": {
+     "q": "Quel animal microscopique, surnommé « ourson d’eau », peut survivre dans l’espace ?",
+     "options": [
+      "Tardigrade",
+      "Crevette",
+      "Araignée",
+      "Fourmi"
+     ],
+     "correct": 0
+    },
+    "es": {
+     "q": "¿Qué animal microscópico, apodado «oso de agua», puede sobrevivir en el espacio?",
+     "options": [
+      "Tardígrado",
+      "Camarón",
+      "Araña",
+      "Hormiga"
+     ],
+     "correct": 0
+    }
+   }
+  }
+ ],
+ "general_food": [
+  {
+   "level": 1,
+   "q": "إلى جانب التمر، من أي فاكهة يُصنع «الدبس» غالباً في بلاد الشام؟",
+   "options": [
+    "العنب",
+    "التفاح",
+    "الموز",
+    "المشمش"
+   ],
+   "correct": 0,
+   "i18n": {
+    "en": {
+     "q": "Besides dates, which fruit is most often used to make 'dibs' (fruit molasses) in the Levant?",
+     "options": [
+      "Grapes",
+      "Apples",
+      "Bananas",
+      "Apricots"
+     ],
+     "correct": 0
+    },
+    "fr": {
+     "q": "Outre les dattes, avec quel fruit prépare-t-on le plus souvent le « dibs » (mélasse de fruits) au Levant ?",
+     "options": [
+      "Raisin",
+      "Pomme",
+      "Banane",
+      "Abricot"
+     ],
+     "correct": 0
+    },
+    "es": {
+     "q": "Además de los dátiles, ¿con qué fruta se elabora más a menudo el «dibs» (melaza de fruta) en el Levante?",
+     "options": [
+      "Uva",
+      "Manzana",
+      "Plátano",
+      "Albaricoque"
+     ],
+     "correct": 0
+    }
+   }
+  },
+  {
+   "level": 2,
+   "q": "من أي بلد أصل جبن «البارميزان»؟",
+   "options": [
+    "فرنسا",
+    "إيطاليا",
+    "سويسرا",
+    "هولندا"
+   ],
+   "correct": 1,
+   "i18n": {
+    "en": {
+     "q": "Which country does Parmesan cheese come from?",
+     "options": [
+      "France",
+      "Italy",
+      "Switzerland",
+      "Netherlands"
+     ],
+     "correct": 1
+    },
+    "fr": {
+     "q": "De quel pays vient le parmesan ?",
+     "options": [
+      "France",
+      "Italie",
+      "Suisse",
+      "Pays-Bas"
+     ],
+     "correct": 1
+    },
+    "es": {
+     "q": "¿De qué país procede el queso parmesano?",
+     "options": [
+      "Francia",
+      "Italia",
+      "Suiza",
+      "Países Bajos"
+     ],
+     "correct": 1
+    }
+   }
+  },
+  {
+   "level": 3,
+   "q": "ما التابل الأغلى ثمناً في العالم، ويُستخرج من مياسم زهرة؟",
+   "options": [
+    "القرفة",
+    "الزعفران",
+    "الفانيليا",
+    "الهيل"
+   ],
+   "correct": 1,
+   "i18n": {
+    "en": {
+     "q": "Which is the world's most expensive spice, taken from the stigmas of a flower?",
+     "options": [
+      "Cinnamon",
+      "Saffron",
+      "Vanilla",
+      "Cardamom"
+     ],
+     "correct": 1
+    },
+    "fr": {
+     "q": "Quelle est l’épice la plus chère du monde, tirée des stigmates d’une fleur ?",
+     "options": [
+      "Cannelle",
+      "Safran",
+      "Vanille",
+      "Cardamome"
+     ],
+     "correct": 1
+    },
+    "es": {
+     "q": "¿Cuál es la especia más cara del mundo, obtenida de los estigmas de una flor?",
+     "options": [
+      "Canela",
+      "Azafrán",
+      "Vainilla",
+      "Cardamomo"
+     ],
+     "correct": 1
+    }
+   }
+  },
+  {
+   "level": 4,
+   "q": "ما اسم الطبق الإسباني المطبوخ بالأرز والزعفران في مقلاة واسعة، وأصله من فالنسيا؟",
+   "options": [
+    "الريزوتو",
+    "الباييلا",
+    "البرياني",
+    "الجامبالايا"
+   ],
+   "correct": 1,
+   "i18n": {
+    "en": {
+     "q": "What is the Spanish rice-and-saffron dish cooked in a wide pan, originally from Valencia?",
+     "options": [
+      "Risotto",
+      "Paella",
+      "Biryani",
+      "Jambalaya"
+     ],
+     "correct": 1
+    },
+    "fr": {
+     "q": "Quel plat espagnol de riz au safran, cuit dans une large poêle, vient de Valence ?",
+     "options": [
+      "Risotto",
+      "Paella",
+      "Biryani",
+      "Jambalaya"
+     ],
+     "correct": 1
+    },
+    "es": {
+     "q": "¿Qué plato español de arroz con azafrán, cocinado en una sartén ancha, es originario de Valencia?",
+     "options": [
+      "Risotto",
+      "Paella",
+      "Biryani",
+      "Jambalaya"
+     ],
+     "correct": 1
+    }
+   }
+  }
+ ],
+ "geo_capitals": [
+  {
+   "level": 1,
+   "q": "ما العاصمة الرسمية لتنزانيا؟",
+   "options": [
+    "دار السلام",
+    "دودوما",
+    "نيروبي",
+    "كمبالا"
+   ],
+   "correct": 1,
+   "i18n": {
+    "en": {
+     "q": "What is the official capital of Tanzania?",
+     "options": [
+      "Dar es Salaam",
+      "Dodoma",
+      "Nairobi",
+      "Kampala"
+     ],
+     "correct": 1
+    },
+    "fr": {
+     "q": "Quelle est la capitale officielle de la Tanzanie ?",
+     "options": [
+      "Dar es Salaam",
+      "Dodoma",
+      "Nairobi",
+      "Kampala"
+     ],
+     "correct": 1
+    },
+    "es": {
+     "q": "¿Cuál es la capital oficial de Tanzania?",
+     "options": [
+      "Dar es Salaam",
+      "Dodoma",
+      "Nairobi",
+      "Kampala"
+     ],
+     "correct": 1
+    }
+   }
+  },
+  {
+   "level": 2,
+   "q": "ما عاصمة الجبل الأسود (مونتينيغرو)؟",
+   "options": [
+    "بودغوريتسا",
+    "سكوبيه",
+    "تيرانا",
+    "سراييفو"
+   ],
+   "correct": 0,
+   "i18n": {
+    "en": {
+     "q": "What is the capital of Montenegro?",
+     "options": [
+      "Podgorica",
+      "Skopje",
+      "Tirana",
+      "Sarajevo"
+     ],
+     "correct": 0
+    },
+    "fr": {
+     "q": "Quelle est la capitale du Monténégro ?",
+     "options": [
+      "Podgorica",
+      "Skopje",
+      "Tirana",
+      "Sarajevo"
+     ],
+     "correct": 0
+    },
+    "es": {
+     "q": "¿Cuál es la capital de Montenegro?",
+     "options": [
+      "Podgorica",
+      "Skopie",
+      "Tirana",
+      "Sarajevo"
+     ],
+     "correct": 0
+    }
+   }
+  },
+  {
+   "level": 3,
+   "q": "ما عاصمة ميانمار منذ عام 2006؟",
+   "options": [
+    "يانغون",
+    "ماندالاي",
+    "نايبيداو",
+    "بانكوك"
+   ],
+   "correct": 2,
+   "i18n": {
+    "en": {
+     "q": "What has been the capital of Myanmar since 2006?",
+     "options": [
+      "Yangon",
+      "Mandalay",
+      "Naypyidaw",
+      "Bangkok"
+     ],
+     "correct": 2
+    },
+    "fr": {
+     "q": "Quelle est la capitale de la Birmanie depuis 2006 ?",
+     "options": [
+      "Rangoun",
+      "Mandalay",
+      "Naypyidaw",
+      "Bangkok"
+     ],
+     "correct": 2
+    },
+    "es": {
+     "q": "¿Cuál es la capital de Myanmar desde 2006?",
+     "options": [
+      "Rangún",
+      "Mandalay",
+      "Naipyidó",
+      "Bangkok"
+     ],
+     "correct": 2
+    }
+   }
+  },
+  {
+   "level": 4,
+   "q": "ما عاصمة جزر القمر؟",
+   "options": [
+    "موروني",
+    "فيكتوريا",
+    "بورت لويس",
+    "أنتاناناريفو"
+   ],
+   "correct": 0,
+   "i18n": {
+    "en": {
+     "q": "What is the capital of the Comoros?",
+     "options": [
+      "Moroni",
+      "Victoria",
+      "Port Louis",
+      "Antananarivo"
+     ],
+     "correct": 0
+    },
+    "fr": {
+     "q": "Quelle est la capitale des Comores ?",
+     "options": [
+      "Moroni",
+      "Victoria",
+      "Port-Louis",
+      "Antananarivo"
+     ],
+     "correct": 0
+    },
+    "es": {
+     "q": "¿Cuál es la capital de las Comoras?",
+     "options": [
+      "Moroni",
+      "Victoria",
+      "Port Louis",
+      "Antananarivo"
+     ],
+     "correct": 0
+    }
+   }
+  }
+ ],
+ "history_ancient": [
+  {
+   "level": 1,
+   "q": "ما اسم الطريق التجاري القديم الذي ربط الصين بحوض البحر المتوسط؟",
+   "options": [
+    "طريق الحرير",
+    "طريق البخور",
+    "طريق الملح",
+    "طريق العنبر"
+   ],
+   "correct": 0,
+   "i18n": {
+    "en": {
+     "q": "What was the ancient trade route linking China with the Mediterranean?",
+     "options": [
+      "Silk Road",
+      "Incense Route",
+      "Salt Road",
+      "Amber Road"
+     ],
+     "correct": 0
+    },
+    "fr": {
+     "q": "Quelle ancienne route commerciale reliait la Chine à la Méditerranée ?",
+     "options": [
+      "Route de la soie",
+      "Route de l’encens",
+      "Route du sel",
+      "Route de l’ambre"
+     ],
+     "correct": 0
+    },
+    "es": {
+     "q": "¿Qué antigua ruta comercial unía China con el Mediterráneo?",
+     "options": [
+      "Ruta de la Seda",
+      "Ruta del Incienso",
+      "Ruta de la Sal",
+      "Ruta del Ámbar"
+     ],
+     "correct": 0
+    }
+   }
+  },
+  {
+   "level": 2,
+   "q": "أي مدينة أردنية تُلقّب «بومبي الشرق» لآثارها الرومانية المحفوظة؟",
+   "options": [
+    "جرش",
+    "البتراء",
+    "أم الجمال",
+    "الكرك"
+   ],
+   "correct": 0,
+   "i18n": {
+    "en": {
+     "q": "Which Jordanian city is nicknamed the 'Pompeii of the East' for its well-preserved Roman ruins?",
+     "options": [
+      "Jerash",
+      "Petra",
+      "Umm al-Jimal",
+      "Karak"
+     ],
+     "correct": 0
+    },
+    "fr": {
+     "q": "Quelle ville jordanienne est surnommée la « Pompéi de l’Orient » pour ses ruines romaines ?",
+     "options": [
+      "Jerash",
+      "Pétra",
+      "Umm al-Jimal",
+      "Kerak"
+     ],
+     "correct": 0
+    },
+    "es": {
+     "q": "¿Qué ciudad jordana es apodada la «Pompeya de Oriente» por sus ruinas romanas?",
+     "options": [
+      "Jerash",
+      "Petra",
+      "Umm al-Jimal",
+      "Karak"
+     ],
+     "correct": 0
+    }
+   }
+  },
+  {
+   "level": 3,
+   "q": "ما اسم أول مجموعة قوانين رومانية مكتوبة، ونُقشت على ألواح برونزية؟",
+   "options": [
+    "الألواح الاثنا عشر",
+    "مدونة جستنيان",
+    "شريعة حمورابي",
+    "الماغنا كارتا"
+   ],
+   "correct": 0,
+   "i18n": {
+    "en": {
+     "q": "What was the first written code of Roman law, inscribed on bronze tablets?",
+     "options": [
+      "Twelve Tables",
+      "Code of Justinian",
+      "Code of Hammurabi",
+      "Magna Carta"
+     ],
+     "correct": 0
+    },
+    "fr": {
+     "q": "Quel fut le premier recueil écrit de lois romaines, gravé sur des tables de bronze ?",
+     "options": [
+      "Loi des Douze Tables",
+      "Code de Justinien",
+      "Code d’Hammurabi",
+      "Magna Carta"
+     ],
+     "correct": 0
+    },
+    "es": {
+     "q": "¿Cuál fue el primer código escrito de leyes romanas, grabado en tablas de bronce?",
+     "options": [
+      "Ley de las Doce Tablas",
+      "Código de Justiniano",
+      "Código de Hammurabi",
+      "Carta Magna"
+     ],
+     "correct": 0
+    }
+   }
+  },
+  {
+   "level": 4,
+   "q": "أي مدينة كانت العاصمة الاحتفالية للإمبراطورية الأخمينية الفارسية وأحرقها الإسكندر الأكبر؟",
+   "options": [
+    "بابل",
+    "برسبوليس",
+    "نينوى",
+    "صور"
+   ],
+   "correct": 1,
+   "i18n": {
+    "en": {
+     "q": "Which city was the ceremonial capital of the Achaemenid Empire and was burned by Alexander the Great?",
+     "options": [
+      "Babylon",
+      "Persepolis",
+      "Nineveh",
+      "Tyre"
+     ],
+     "correct": 1
+    },
+    "fr": {
+     "q": "Quelle ville, capitale cérémonielle de l’Empire achéménide, fut incendiée par Alexandre le Grand ?",
+     "options": [
+      "Babylone",
+      "Persépolis",
+      "Ninive",
+      "Tyr"
+     ],
+     "correct": 1
+    },
+    "es": {
+     "q": "¿Qué ciudad, capital ceremonial del Imperio aqueménida, fue incendiada por Alejandro Magno?",
+     "options": [
+      "Babilonia",
+      "Persépolis",
+      "Nínive",
+      "Tiro"
+     ],
+     "correct": 1
+    }
+   }
+  }
+ ],
+ "islam_seerah": [
+  {
+   "level": 1,
+   "q": "ما اسم الدار التي كان النبي ﷺ يجتمع فيها بأصحابه سراً في مكة أول الدعوة؟",
+   "options": [
+    "دار الأرقم بن أبي الأرقم",
+    "دار الندوة",
+    "دار أبي سفيان",
+    "دار العباس"
+   ],
+   "correct": 0
+  },
+  {
+   "level": 2,
+   "q": "كم سنة استمرت الدعوة السرية في مكة على المشهور؟",
+   "options": [
+    "سنة واحدة",
+    "3 سنوات",
+    "5 سنوات",
+    "10 سنوات"
+   ],
+   "correct": 1
+  },
+  {
+   "level": 3,
+   "q": "كم كان عمر النبي ﷺ حين تزوج خديجة رضي الله عنها على المشهور؟",
+   "options": [
+    "20 سنة",
+    "25 سنة",
+    "30 سنة",
+    "40 سنة"
+   ],
+   "correct": 1
+  },
+  {
+   "level": 4,
+   "q": "من الصحابي الذي كان يأتي النبيَّ ﷺ وأبا بكر بأخبار قريش وهما في الغار؟",
+   "options": [
+    "عبد الله بن أبي بكر",
+    "عامر بن فهيرة",
+    "علي بن أبي طالب",
+    "زيد بن حارثة"
+   ],
+   "correct": 0
+  }
+ ],
+ "lang_arabicvocab": [
+  {
+   "level": 0,
+   "q": "ما ضد كلمة «الشجاعة»؟",
+   "options": [
+    "الجُبن",
+    "الكرم",
+    "الذكاء",
+    "الصبر"
+   ],
+   "correct": 0
+  },
+  {
+   "level": 2,
+   "q": "ما مفرد كلمة «أنامل»؟",
+   "options": [
+    "أُنمُلة",
+    "نملة",
+    "منمل",
+    "أنمول"
+   ],
+   "correct": 0
+  },
+  {
+   "level": 3,
+   "q": "ما معنى كلمة «الهِزَبْر»؟",
+   "options": [
+    "الأسد",
+    "الذئب",
+    "النمر",
+    "الصقر"
+   ],
+   "correct": 0
+  },
+  {
+   "level": 4,
+   "q": "ما معنى كلمة «النُّضار»؟",
+   "options": [
+    "الفضة",
+    "الذهب الخالص",
+    "النحاس",
+    "الحديد"
+   ],
+   "correct": 1
+  }
+ ],
+ "science_astronomy": [
+  {
+   "level": 1,
+   "q": "أي كوكب يدور وهو مائل على جانبه تقريباً (ميل محوره نحو 98 درجة)؟",
+   "options": [
+    "زحل",
+    "أورانوس",
+    "المريخ",
+    "عطارد"
+   ],
+   "correct": 1,
+   "i18n": {
+    "en": {
+     "q": "Which planet spins almost on its side, with an axial tilt of about 98°?",
+     "options": [
+      "Saturn",
+      "Uranus",
+      "Mars",
+      "Mercury"
+     ],
+     "correct": 1
+    },
+    "fr": {
+     "q": "Quelle planète tourne presque couchée sur le côté (inclinaison d’environ 98°) ?",
+     "options": [
+      "Saturne",
+      "Uranus",
+      "Mars",
+      "Mercure"
+     ],
+     "correct": 1
+    },
+    "es": {
+     "q": "¿Qué planeta gira casi de lado, con una inclinación de unos 98°?",
+     "options": [
+      "Saturno",
+      "Urano",
+      "Marte",
+      "Mercurio"
+     ],
+     "correct": 1
+    }
+   }
+  },
+  {
+   "level": 2,
+   "q": "ما اسم أعلى جبل معروف في المجموعة الشمسية، ويقع على المريخ؟",
+   "options": [
+    "أوليمبوس مونس",
+    "إيفرست",
+    "ماونا كيا",
+    "كليمنجارو"
+   ],
+   "correct": 0,
+   "i18n": {
+    "en": {
+     "q": "What is the tallest known mountain in the Solar System, located on Mars?",
+     "options": [
+      "Olympus Mons",
+      "Everest",
+      "Mauna Kea",
+      "Kilimanjaro"
+     ],
+     "correct": 0
+    },
+    "fr": {
+     "q": "Quelle est la plus haute montagne connue du Système solaire, située sur Mars ?",
+     "options": [
+      "Olympus Mons",
+      "Everest",
+      "Mauna Kea",
+      "Kilimandjaro"
+     ],
+     "correct": 0
+    },
+    "es": {
+     "q": "¿Cuál es la montaña más alta conocida del sistema solar, situada en Marte?",
+     "options": [
+      "Olympus Mons",
+      "Everest",
+      "Mauna Kea",
+      "Kilimanjaro"
+     ],
+     "correct": 0
+    }
+   }
+  },
+  {
+   "level": 3,
+   "q": "أي كوكب يستغرق دورانه حول نفسه وقتاً أطول من دورانه حول الشمس (يومه أطول من سنته)؟",
+   "options": [
+    "الزهرة",
+    "عطارد",
+    "المريخ",
+    "المشتري"
+   ],
+   "correct": 0,
+   "i18n": {
+    "en": {
+     "q": "Which planet takes longer to spin once on its axis than to orbit the Sun (its day is longer than its year)?",
+     "options": [
+      "Venus",
+      "Mercury",
+      "Mars",
+      "Jupiter"
+     ],
+     "correct": 0
+    },
+    "fr": {
+     "q": "Quelle planète met plus de temps à tourner sur elle-même qu’à faire le tour du Soleil (son jour dure plus que son année) ?",
+     "options": [
+      "Vénus",
+      "Mercure",
+      "Mars",
+      "Jupiter"
+     ],
+     "correct": 0
+    },
+    "es": {
+     "q": "¿Qué planeta tarda más en girar sobre sí mismo que en dar la vuelta al Sol (su día es más largo que su año)?",
+     "options": [
+      "Venus",
+      "Mercurio",
+      "Marte",
+      "Júpiter"
+     ],
+     "correct": 0
+    }
+   }
+  },
+  {
+   "level": 4,
+   "q": "ما أول مسبار فضائي تجاوز حدود الغلاف الشمسي إلى الفضاء بين النجمي (عام 2012)؟",
+   "options": [
+    "بايونير 10",
+    "فوييجر 1",
+    "نيو هورايزونز",
+    "كاسيني"
+   ],
+   "correct": 1,
+   "i18n": {
+    "en": {
+     "q": "Which probe was the first to cross the heliopause into interstellar space (2012)?",
+     "options": [
+      "Pioneer 10",
+      "Voyager 1",
+      "New Horizons",
+      "Cassini"
+     ],
+     "correct": 1
+    },
+    "fr": {
+     "q": "Quelle sonde a été la première à franchir l’héliopause vers l’espace interstellaire (2012) ?",
+     "options": [
+      "Pioneer 10",
+      "Voyager 1",
+      "New Horizons",
+      "Cassini"
+     ],
+     "correct": 1
+    },
+    "es": {
+     "q": "¿Qué sonda fue la primera en cruzar la heliopausa hacia el espacio interestelar (2012)?",
+     "options": [
+      "Pioneer 10",
+      "Voyager 1",
+      "New Horizons",
+      "Cassini"
+     ],
+     "correct": 1
+    }
+   }
+  }
+ ],
+ "science_physics": [
+  {
+   "level": 1,
+   "q": "ما اسم الجهاز الذي يقيس شدة التيار الكهربائي؟",
+   "options": [
+    "الفولتميتر",
+    "الأميتر",
+    "البارومتر",
+    "الترمومتر"
+   ],
+   "correct": 1,
+   "i18n": {
+    "en": {
+     "q": "Which device measures electric current?",
+     "options": [
+      "Voltmeter",
+      "Ammeter",
+      "Barometer",
+      "Thermometer"
+     ],
+     "correct": 1
+    },
+    "fr": {
+     "q": "Quel appareil mesure l’intensité du courant électrique ?",
+     "options": [
+      "Voltmètre",
+      "Ampèremètre",
+      "Baromètre",
+      "Thermomètre"
+     ],
+     "correct": 1
+    },
+    "es": {
+     "q": "¿Qué aparato mide la intensidad de la corriente eléctrica?",
+     "options": [
+      "Voltímetro",
+      "Amperímetro",
+      "Barómetro",
+      "Termómetro"
+     ],
+     "correct": 1
+    }
+   }
+  },
+  {
+   "level": 2,
+   "q": "أي لون من ألوان الطيف ينحرف أكثر عند مرور الضوء الأبيض في منشور زجاجي؟",
+   "options": [
+    "الأحمر",
+    "الأصفر",
+    "الأخضر",
+    "البنفسجي"
+   ],
+   "correct": 3,
+   "i18n": {
+    "en": {
+     "q": "Which colour bends the most when white light passes through a glass prism?",
+     "options": [
+      "Red",
+      "Yellow",
+      "Green",
+      "Violet"
+     ],
+     "correct": 3
+    },
+    "fr": {
+     "q": "Quelle couleur est la plus déviée quand la lumière blanche traverse un prisme ?",
+     "options": [
+      "Rouge",
+      "Jaune",
+      "Vert",
+      "Violet"
+     ],
+     "correct": 3
+    },
+    "es": {
+     "q": "¿Qué color se desvía más cuando la luz blanca atraviesa un prisma?",
+     "options": [
+      "Rojo",
+      "Amarillo",
+      "Verde",
+      "Violeta"
+     ],
+     "correct": 3
+    }
+   }
+  },
+  {
+   "level": 3,
+   "q": "عند أي درجة حرارة يتساوى مقياسا سلسيوس وفهرنهايت؟",
+   "options": [
+    "0",
+    "-40",
+    "32",
+    "100"
+   ],
+   "correct": 1,
+   "i18n": {
+    "en": {
+     "q": "At what temperature are the Celsius and Fahrenheit scales equal?",
+     "options": [
+      "0",
+      "-40",
+      "32",
+      "100"
+     ],
+     "correct": 1
+    },
+    "fr": {
+     "q": "À quelle température les échelles Celsius et Fahrenheit sont-elles égales ?",
+     "options": [
+      "0",
+      "-40",
+      "32",
+      "100"
+     ],
+     "correct": 1
+    },
+    "es": {
+     "q": "¿A qué temperatura coinciden las escalas Celsius y Fahrenheit?",
+     "options": [
+      "0",
+      "-40",
+      "32",
+      "100"
+     ],
+     "correct": 1
+    }
+   }
+  },
+  {
+   "level": 4,
+   "q": "ما اسم الظاهرة التي تجعل صوت سيارة الإسعاف يبدو أعلى حدة عند اقترابها وأخفض عند ابتعادها؟",
+   "options": [
+    "تأثير دوبلر",
+    "تأثير كومبتون",
+    "تأثير زيمان",
+    "الرنين"
+   ],
+   "correct": 0,
+   "i18n": {
+    "en": {
+     "q": "What effect makes an ambulance siren sound higher as it approaches and lower as it moves away?",
+     "options": [
+      "Doppler effect",
+      "Compton effect",
+      "Zeeman effect",
+      "Resonance"
+     ],
+     "correct": 0
+    },
+    "fr": {
+     "q": "Quel effet rend la sirène d’une ambulance plus aiguë quand elle approche et plus grave quand elle s’éloigne ?",
+     "options": [
+      "Effet Doppler",
+      "Effet Compton",
+      "Effet Zeeman",
+      "Résonance"
+     ],
+     "correct": 0
+    },
+    "es": {
+     "q": "¿Qué efecto hace que la sirena de una ambulancia suene más aguda al acercarse y más grave al alejarse?",
+     "options": [
+      "Efecto Doppler",
+      "Efecto Compton",
+      "Efecto Zeeman",
+      "Resonancia"
+     ],
+     "correct": 0
+    }
+   }
+  }
+ ],
+ "tech_computers": [
+  {
+   "level": 2,
+   "q": "ما لغة البرمجة التي سُمّيت تيمّناً بفرقة كوميدية بريطانية؟",
+   "options": [
+    "جافا",
+    "بايثون",
+    "روبي",
+    "سي"
+   ],
+   "correct": 1,
+   "i18n": {
+    "en": {
+     "q": "Which programming language was named after a British comedy group?",
+     "options": [
+      "Java",
+      "Python",
+      "Ruby",
+      "C"
+     ],
+     "correct": 1
+    },
+    "fr": {
+     "q": "Quel langage de programmation doit son nom à une troupe comique britannique ?",
+     "options": [
+      "Java",
+      "Python",
+      "Ruby",
+      "C"
+     ],
+     "correct": 1
+    },
+    "es": {
+     "q": "¿Qué lenguaje de programación debe su nombre a un grupo cómico británico?",
+     "options": [
+      "Java",
+      "Python",
+      "Ruby",
+      "C"
+     ],
+     "correct": 1
+    }
+   }
+  },
+  {
+   "level": 3,
+   "q": "ما نظام العد الذي يستخدم 16 رمزاً (من 0 إلى 9 ومن A إلى F)؟",
+   "options": [
+    "الثنائي",
+    "الثماني",
+    "العشري",
+    "السداسي عشري"
+   ],
+   "correct": 3,
+   "i18n": {
+    "en": {
+     "q": "Which number system uses 16 symbols (0–9 and A–F)?",
+     "options": [
+      "Binary",
+      "Octal",
+      "Decimal",
+      "Hexadecimal"
+     ],
+     "correct": 3
+    },
+    "fr": {
+     "q": "Quel système de numération utilise 16 symboles (0–9 et A–F) ?",
+     "options": [
+      "Binaire",
+      "Octal",
+      "Décimal",
+      "Hexadécimal"
+     ],
+     "correct": 3
+    },
+    "es": {
+     "q": "¿Qué sistema de numeración usa 16 símbolos (0–9 y A–F)?",
+     "options": [
+      "Binario",
+      "Octal",
+      "Decimal",
+      "Hexadecimal"
+     ],
+     "correct": 3
+    }
+   }
+  },
+  {
+   "level": 1,
+   "q": "ما اسم البرنامج الذي يُستخدم لتصفّح مواقع الإنترنت؟",
+   "options": [
+    "المتصفّح",
+    "المعالج",
+    "المترجم (Compiler)",
+    "نظام التشغيل"
+   ],
+   "correct": 0,
+   "i18n": {
+    "en": {
+     "q": "What do we call the program used to view websites?",
+     "options": [
+      "Web browser",
+      "Processor",
+      "Compiler",
+      "Operating system"
+     ],
+     "correct": 0
+    },
+    "fr": {
+     "q": "Comment s’appelle le programme qui sert à consulter des sites web ?",
+     "options": [
+      "Navigateur",
+      "Processeur",
+      "Compilateur",
+      "Système d’exploitation"
+     ],
+     "correct": 0
+    },
+    "es": {
+     "q": "¿Cómo se llama el programa que se usa para ver sitios web?",
+     "options": [
+      "Navegador",
+      "Procesador",
+      "Compilador",
+      "Sistema operativo"
+     ],
+     "correct": 0
+    }
+   }
+  },
+  {
+   "level": 4,
+   "q": "ما اسم أول متصفح ويب رسومي انتشر على نطاق واسع عام 1993؟",
+   "options": [
+    "موزاييك",
+    "نتسكيب",
+    "أوبرا",
+    "فايرفوكس"
+   ],
+   "correct": 0,
+   "i18n": {
+    "en": {
+     "q": "What was the first widely used graphical web browser, released in 1993?",
+     "options": [
+      "Mosaic",
+      "Netscape",
+      "Opera",
+      "Firefox"
+     ],
+     "correct": 0
+    },
+    "fr": {
+     "q": "Quel fut le premier navigateur web graphique largement utilisé, sorti en 1993 ?",
+     "options": [
+      "Mosaic",
+      "Netscape",
+      "Opera",
+      "Firefox"
+     ],
+     "correct": 0
+    },
+    "es": {
+     "q": "¿Cuál fue el primer navegador web gráfico de uso masivo, lanzado en 1993?",
+     "options": [
+      "Mosaic",
+      "Netscape",
+      "Opera",
+      "Firefox"
+     ],
+     "correct": 0
+    }
+   }
+  }
+ ]
+}
