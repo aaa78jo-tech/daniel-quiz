@@ -54,8 +54,9 @@
 
 <h3>أ) لا يلزم تسجيل دخول لاستخدام التطبيق</h3>
 <p>
-  يمكنك اللعب بالكامل دون حساب. في هذه الحالة تُحفظ نتائجك <b>على جهازك فقط</b>
-  ولا تُرسَل إلى أي خادم، ولا تظهر في التصنيف العام.
+  يمكنك اللعب بالكامل دون تسجيل دخول. في هذه الحالة تُحفظ نتائجك <b>على جهازك</b> ولا تظهر في التصنيف العام،
+  لكن التطبيق ينشئ حساب ضيف <b>مجهولاً</b> (بلا اسم أو بريد) يُرسَل معه إلى Firebase: معرّف عشوائي (UID)، وإحصاءات استخدام بسيطة
+  (آخر ظهور، مدة اللعب، عدد الإعلانات المشاهدة، الإصدار واللغة) ونتائج اللعب الجماعي إن شاركت فيه — للتشغيل ومنع الاحتيال والإحصاءات.
 </p>
 
 <h3>ب) إن اخترت تسجيل الدخول بحساب Google</h3>
@@ -183,7 +184,7 @@
   <p>Developer: <b>Anas</b> — contact: <a href="mailto:AAA78JO@gmail.com">AAA78JO@gmail.com</a></p>
 
   <h2>2. Data we collect</h2>
-  <p><b>No sign-in is required.</b> If you play as a guest, your scores stay on your device only, are never uploaded, and do not appear in public rankings.</p>
+  <p><b>No sign-in is required.</b> If you play as a guest, your scores stay on your device and do not appear in public rankings. The app still creates an <b>anonymous</b> guest account (no name or email) and sends to Firebase a random identifier (UID), basic usage statistics (last seen, play time, ads watched, app version and language) and any multiplayer results — for app functionality, fraud prevention and analytics.</p>
   <p>If you choose to sign in with Google, we store the following in Google Firebase:</p>
   <ul>
     <li>Display name — shown on public leaderboards.</li>
